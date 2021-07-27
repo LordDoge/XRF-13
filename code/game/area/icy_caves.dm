@@ -98,3 +98,7 @@
 	icon_state = "blue"
 	ceiling = CEILING_NONE
 	outside = TRUE
+
+/area/icy_caves/outpost/shack
+	name = "Shack"
+	icon_state = "Sleep"
